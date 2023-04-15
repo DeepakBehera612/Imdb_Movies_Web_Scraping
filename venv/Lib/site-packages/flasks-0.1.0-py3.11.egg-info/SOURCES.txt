@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+src/flasks.egg-info/PKG-INFO
+src/flasks.egg-info/SOURCES.txt
+src/flasks.egg-info/dependency_links.txt
+src/flasks.egg-info/requires.txt
+src/flasks.egg-info/top_level.txt

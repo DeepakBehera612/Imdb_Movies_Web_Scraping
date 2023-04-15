@@ -1,0 +1,58 @@
+{
+    "employee_details": [{
+            "account_id": 112364,
+            "account_name": "Ram",
+            "department_id": "IT",
+            "balance": 33212
+        },
+        {
+            "account_id": 114563,
+            "account_name": "Rani",
+            "department_id": "HR",
+            "balance": 54323
+        },
+        {
+            "account_id": 115986,
+            "account_name": "John",
+            "department_id": "Data",
+            "balance": 24562
+        },
+        {
+            "account_id": 115467,
+            "account_name": "Sam",
+            "department_id": "HR",
+            "balance": 25663
+        },
+        {
+            "account_id": 117896,
+            "account_name": "Sundar",
+            "department_id": "IT",
+            "balance": 29778
+        },
+        {
+            "account_id": 225854,
+            "account_name": "Anoop",
+            "department_id": "Data",
+            "balance": 6778
+        },
+        {
+            "account_id": 336896,
+            "account_name": "Anil",
+            "department_id": "IT",
+            "balance": 57895
+        },
+        {
+            "account_id": 668954,
+            "account_name": "Srinu",
+            "department_id": "HR",
+            "balance": 4325
+        },
+        {
+            "account_id": 334564,
+            "account_name": "Raju",
+            "department_id": "Data",
+            "balance": 778875
+
+        }
+    ]
+}
